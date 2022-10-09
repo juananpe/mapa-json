@@ -1,3 +1,6 @@
+// legra guztiek espazio bera okupatu behar dute
+document.body.style.fontFamily = "monospace";
+
 // mapa sortu ( 14x25 )
 let mapa = new Array(14);
  for (let i = 0; i < 14; i++) {
