@@ -22,3 +22,22 @@ for(let i=0; i<14; i++){
 
 // https://raw.githubusercontent.com/juananpe/promises-exercises/main/levels/level.json  JSON hau jaitsi, Zeharkatu eta tile bakoitza mapan sartu
 // mapa bistaratu 
+
+/*  Helburua
+
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s g g s s s
+s s s s s s s s s s s s s s s s s s s s g g s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+s s s s s g g s s s s s s s s s s s s s s s s s s
+s s s s s g g s s s s s s s s s s s s s s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s
+g g g g g g g g g g g g g g g g g g g g g g g g g
+g g g g g g g g g g g g g g g g g g g g g g g g g
+
+*/
