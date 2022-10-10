@@ -23,7 +23,7 @@ for(let i=0; i<14; i++){
     document.write( errenkada.join(" ") + "<br>" )
 }
 
-// https://raw.githubusercontent.com/juananpe/promises-exercises/main/levels/level.json  JSON hau jaitsi, Zeharkatu eta tile bakoitza mapan sartu
+// https://labur.eus/sxqXr  JSON hau jaitsi, Zeharkatu eta tile bakoitza mapan sartu
 // mapa bistaratu 
 
 /*  Helburua
